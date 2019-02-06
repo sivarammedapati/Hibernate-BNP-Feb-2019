@@ -1,0 +1,47 @@
+package com.entity;
+
+import java.util.Date;
+
+public class AccTransaction {
+	
+	private int id;
+	private double amt;
+	private Date txDate;
+	
+	public AccTransaction() {
+		
+	}
+
+	public AccTransaction(double amt, Date txDate) {
+		super();
+		this.amt = amt;
+		this.txDate = txDate;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public double getAmt() {
+		return amt;
+	}
+
+	public void setAmt(double amt) {
+		this.amt = amt;
+	}
+
+	public Date getTxDate() {
+		return txDate;
+	}
+
+	public void setTxDate(Date txDate) {
+		this.txDate = txDate;
+	}
+	
+	
+
+}

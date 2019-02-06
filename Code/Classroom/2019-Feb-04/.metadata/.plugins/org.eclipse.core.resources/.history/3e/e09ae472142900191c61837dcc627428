@@ -1,0 +1,23 @@
+package com.entity;
+
+import java.util.Date;
+
+public class AccTransaction {
+	
+	private int id;
+	private double amt;
+	private Date txDate;
+	
+	public AccTransaction() {
+		
+	}
+
+	public AccTransaction(double amt, Date txDate) {
+		super();
+		this.amt = amt;
+		this.txDate = txDate;
+	}
+	
+	
+
+}

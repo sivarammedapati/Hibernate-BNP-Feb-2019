@@ -1,0 +1,5 @@
+1517506002674	Move 'applicationContext.xml' to 'WEB-INF'
+1517506484295	Delete element
+1517506726873	Rename type 'AccountRepositoryImpl'
+1517506859556	Extract interface 'CustomerRepository'
+1517533413768	Rename type 'SaveCustomer'

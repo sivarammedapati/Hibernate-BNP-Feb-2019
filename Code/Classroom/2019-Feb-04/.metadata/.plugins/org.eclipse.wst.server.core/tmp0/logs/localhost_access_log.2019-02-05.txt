@@ -1,0 +1,8 @@
+127.0.0.1 - - [05/Feb/2019:15:51:14 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:15:51:21 +0530] "GET /HibernateWeb/ListCustomers HTTP/1.1" 200 513
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:15:51:56 +0530] "GET /HibernateWeb/ListCustomers HTTP/1.1" 200 513
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:15:51:57 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:16:01:29 +0530] "GET /HibernateWeb/ListCustomers HTTP/1.1" 500 3908
+127.0.0.1 - - [05/Feb/2019:16:08:27 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:16:08:44 +0530] "GET /HibernateWeb/ListCustomers HTTP/1.1" 500 3019
+0:0:0:0:0:0:0:1 - - [05/Feb/2019:16:09:09 +0530] "GET /HibernateWeb/ListCustomers HTTP/1.1" 200 1430

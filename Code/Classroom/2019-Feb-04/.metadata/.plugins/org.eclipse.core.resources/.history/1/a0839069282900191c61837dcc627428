@@ -1,0 +1,10 @@
+package com.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.PrimaryKeyJoinColumn;
+
+@Entity
+@PrimaryKeyJoinColumn(name="accountId")
+public class CurrentAccount extends Account{
+
+}

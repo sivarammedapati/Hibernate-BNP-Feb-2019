@@ -1,0 +1,18 @@
+package com.entity;
+
+public class Account {
+	
+	private int id;
+	private double balance;
+	
+	public Account() {
+		
+	}
+
+	public Account(double balance) {
+		
+		this.balance = balance;
+	}
+	
+
+}

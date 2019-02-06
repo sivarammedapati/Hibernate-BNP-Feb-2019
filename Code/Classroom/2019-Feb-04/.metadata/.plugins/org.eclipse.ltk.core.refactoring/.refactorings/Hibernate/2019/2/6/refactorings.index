@@ -1,0 +1,6 @@
+1549270215554	Extract method 'createMessages'
+1549344695410	Encapsulate field 'customer'
+1549344985651	Encapsulate field 'accounts'
+1549350474584	Encapsulate field 'accounts'
+1549350887390	Encapsulate field 'transactions'
+1549358765124	Encapsulate field 'minimumBalance'

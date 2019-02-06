@@ -1,0 +1,14 @@
+package com.entity;
+
+import java.util.Date;
+
+public class AccTransaction {
+	
+	private int id;
+	private double amt;
+	private Date txDate;
+	
+	
+	
+
+}

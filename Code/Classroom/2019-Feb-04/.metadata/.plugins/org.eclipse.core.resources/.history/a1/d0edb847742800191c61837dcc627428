@@ -1,0 +1,20 @@
+package com.entity;
+
+/**
+ * 
+ * @author anilj
+ *
+ *	Customer
+ *		id: int PK
+ *		name: varchar
+ *		createDate: date
+ *		city
+ *		state
+ *
+ */
+
+public class Customer {
+
+	private int id;
+	
+}

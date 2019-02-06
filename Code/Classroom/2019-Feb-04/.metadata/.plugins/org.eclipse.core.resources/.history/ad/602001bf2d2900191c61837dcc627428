@@ -1,0 +1,20 @@
+package com.util;
+
+import org.hibernate.SessionFactory;
+
+public class HibernateUtil {
+
+	private static final SessionFactory SESSION_FACTORY;
+	
+	static {
+		
+		
+	}
+	
+	public static SessionFactory getSessionFactory() {
+		
+		
+		
+		return SESSION_FACTORY;
+	}
+}

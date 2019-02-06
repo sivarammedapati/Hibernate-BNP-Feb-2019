@@ -1,0 +1,17 @@
+package com.entity;
+
+/**
+ * 
+ * @author anilj
+ *
+ *	Message
+ *		id: int primary key
+ *		text: varchar
+ *		description: varchar
+ *		nextMessageId: int (FK)
+ *
+ */
+
+public class Message {
+
+}
